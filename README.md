@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on hard on Chem4Word in my spare time.
+- 🔭 I work hard on Chem4Word in my spare time.
 
 - Our curent live version is Version 3 it's reposiory lives here https://github.com/Chem4Word/Version3
 - Our next version will be Vesrion 2020 it's reposiory lives here https://github.com/Chem4Word/Version3-1
