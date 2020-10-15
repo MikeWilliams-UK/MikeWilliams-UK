@@ -2,8 +2,8 @@
 
 - 🔭 I work hard on Chem4Word in my spare time.
 
-- Our curent live version is Version 3 it's reposiory lives here https://github.com/Chem4Word/Version3
-- Our next version will be Vesrion 2020 it's reposiory lives here https://github.com/Chem4Word/Version3-1
+- Our main live version is Version 2020 it's reposiory lives here https://github.com/Chem4Word/Version3-1
+- Our previous live version is Version 3 it's reposiory lives here https://github.com/Chem4Word/Version3
 
 <!--
 **MikeWilliams-UK/MikeWilliams-UK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
