@@ -2,6 +2,7 @@
 
 - 🔭 I work hard on Chem4Word in my spare time.
 
+- We are currently working on the next version it's reposiory lives here https://github.com/Chem4Word/Version3-2
 - Our main live version is Version 2020 it's reposiory lives here https://github.com/Chem4Word/Version3-1
 - Our previous live version is Version 3 it's reposiory lives here https://github.com/Chem4Word/Version3
 
