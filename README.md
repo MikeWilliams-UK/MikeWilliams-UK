@@ -4,7 +4,7 @@
 
 - We are currently working on the next version it's reposiory lives here https://github.com/Chem4Word/Version3-3
 - Our main live version is Version 2023 it's reposiory lives here https://github.com/Chem4Word/Version3-2
-- Our previous live versions are Version 3.1 (2020) and Version 3.0 their repositories are here https://github.com/Chem4Word/Version3-1 & https://github.com/Chem4Word/Version3 
+- Our previous versions are Version 3.1 (2020) and Version 3.0 their repositories are here https://github.com/Chem4Word/Version3-1 & https://github.com/Chem4Word/Version3 
 
 <!--
 **MikeWilliams-UK/MikeWilliams-UK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
