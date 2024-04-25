@@ -3,7 +3,7 @@
 - I work hard on Chem4Word in my spare time.
 
 - We are currently working on the next version it's reposiory lives here https://github.com/Chem4Word/Version3-3
-- Our main live version is Version 2023 it's reposiory lives here https://github.com/Chem4Word/Version3-2
+- Our main live version is Version 2022 it's reposiory lives here https://github.com/Chem4Word/Version3-2
 - Our previous versions are Version 3.1 (2020) and Version 3.0 their repositories are here https://github.com/Chem4Word/Version3-1 & https://github.com/Chem4Word/Version3
 
 - If you like my work, please consider donating at https://www.buymeacoffee.com/mikewilliamsuk
